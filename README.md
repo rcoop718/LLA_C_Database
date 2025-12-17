@@ -1,1 +1,2 @@
-# This is a readme file
+# LLA_C_Database
+My version of Low Level Academy's employee database that is made in C.
